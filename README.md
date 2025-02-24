@@ -55,7 +55,7 @@ Windows Vista及以上受RDPWarp支持，但本项目及RDPwarpAutoupdate部分�
 
 #### 自建FRP服务
 
-具体步骤可以看我的[Blog](https://www.wuyilingwei.com/article/buildfrp.html)
+具体步骤可以看我的[Blog](https://blog.wuyilingwei.com/articles/buildfrp.html)
 
 有其他推荐的内网穿透建议可以提issue
 
